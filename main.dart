@@ -54,7 +54,7 @@
 
 import 'dart:io';
 import 'onlineshopping(1).dart';
-import 'welcomadmin(2).dart';
+import 'welcomadmin.dart';
 
 void main() {
   print("==== Welcome to Imtiaz Mart ====");

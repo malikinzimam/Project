@@ -7,8 +7,8 @@ welcomeadmin() {
 
   while (true) {
     print("enter your password");
-    var adinmpassword = stdin.readLineSync();
-    if (adinmpassword == "inzimam123") {
+    var adminpassword = stdin.readLineSync();
+    if (adminpassword == "inzimam123") {
       break;
     } else {
       print("Invalid password try again");
